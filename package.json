@@ -16,5 +16,9 @@
     "eslint-config-standard": "^14.1.0"
   },
   "author": "Markus Görlich",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarkWestside/eslint-config-i40.git"
+  },
   "license": "ISC"
 }
