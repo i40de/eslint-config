@@ -1,6 +1,6 @@
 {
   "name": "@i40/eslint-config",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "i40 JavaScript Style",
   "main": "index.js",
   "keywords": [
@@ -18,7 +18,7 @@
   "author": "Markus Görlich",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MarkWestside/eslint-config-i40.git"
+    "url": "https://github.com/i40de/eslint-config.git"
   },
   "license": "ISC"
 }
