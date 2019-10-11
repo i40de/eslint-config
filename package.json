@@ -1,6 +1,6 @@
 {
   "name": "@i40/eslint-config",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "i40 JavaScript Style",
   "main": "index.js",
   "keywords": [
