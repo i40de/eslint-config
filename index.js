@@ -1,0 +1,6 @@
+module.exports = {
+  extends: 'eslint-config-standard',
+  rules: {
+    'comma-dangle': ['error', 'always-multiline'],
+  },
+}
