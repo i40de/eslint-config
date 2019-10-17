@@ -37,3 +37,5 @@ Add to either package.json or .eslintrc:
 
 1. Comma dangle (comma-dangle)
    always-multiline: Requires trailing commas for multiline object and array literals
+2. Space before function parenthesis: (space-before-function-paren)
+   never: Disallows any space followed by the `(` of arguments
