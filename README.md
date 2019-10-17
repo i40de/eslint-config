@@ -7,7 +7,7 @@ An ESLint Shareable Config for i40 flavored JavaScript Standard Style
 
 ## Install
 
-`npx install-peerdeps -D @i40/eslint-config`
+`npx install-peerdeps --dev @i40/eslint-config`
 
 ## Usage
 
