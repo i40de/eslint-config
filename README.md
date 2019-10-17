@@ -7,11 +7,11 @@ An ESLint Shareable Config for i40 flavored JavaScript Standard Style
 
 ## Install
 
-`npm i -D @i40/eslint-config eslint@^6.5.1 eslint-plugin-import@^2.18.2 eslint-plugin-node@^10.0.0 eslint-plugin-promise@^4.2.1 eslint-plugin-standard@^4.0.1 eslint-config-standard@^14.1.0`
+`npx install-peerdeps -D @i40/eslint-config`
 
 ## Usage
 
-Add to either package.json or .eslintrc.json:
+Add to either package.json or .eslintrc:
 
 ##### package.json
 
@@ -25,7 +25,7 @@ Add to either package.json or .eslintrc.json:
 }
 ```
 
-##### .eslintrc.json
+##### .eslintrc
 
 ```
 {
